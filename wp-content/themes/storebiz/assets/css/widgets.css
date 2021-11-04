@@ -1198,7 +1198,7 @@
     font-weight: 600;
     font-size: 18px;
     color: var(--bs-white);
-    /*background-image: url('../images/bg/dotted_sidebar.png');*/
+    /*background-image: url('http://ayachibadr.github.io/yes/wp-content/themes/storebiz/assets/images/bg/dotted_sidebar.png');*/
     background-color: var(--bs-primary);
 }
 
@@ -1912,7 +1912,7 @@ ins .amount {
     line-height: 1;
     padding: 1.125rem;
     color: var(--bs-white);
-    /*background-image: url(../images/bg/dotted_sidebar.png);*/
+    /*background-image: url(http://ayachibadr.github.io/yes/wp-content/themes/storebiz/assets/images/bg/dotted_sidebar.png);*/
     background-color: var(--bs-primary);
     display: block;
     text-transform: capitalize;

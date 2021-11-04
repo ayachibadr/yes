@@ -5599,7 +5599,7 @@ ul.check-list {
     right: -120px;
     width: 192px;
     height: 104px;
-    background: url(../images/about/dotted_arrow.png) no-repeat top center / 100% 100%;
+    background: url(http://ayachibadr.github.io/yes/wp-content/themes/storebiz/assets/images/about/dotted_arrow.png) no-repeat top center / 100% 100%;
 }
 
 .working-wrapper .col:nth-child(even) .widget-contact:after {
@@ -7210,7 +7210,7 @@ h3.comment-reply-title {
 }
 
 .card-404 .fa.fa-smile-o:before {
-    content: url(../images/icon404.png);
+    content: url(http://ayachibadr.github.io/yes/wp-content/themes/storebiz/assets/images/icon404.png);
 }
 
 .card-404-img img {
@@ -7248,7 +7248,7 @@ h3.comment-reply-title {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url(../images/bg_dotted404.png);
+    background-image: url(http://ayachibadr.github.io/yes/wp-content/themes/storebiz/assets/images/bg_dotted404.png);
     background-size: cover;
     background-repeat: no-repeat;
     z-index: -1;

@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Commentaires sur : Bonjour tout le monde !	</title>
-	<atom:link href="https://confident-sammet-6fdfb7.netlify.app//2021/11/01/bonjour-tout-le-monde/feed/" rel="self" type="application/rss+xml" />
-	<link>https://confident-sammet-6fdfb7.netlify.app//2021/11/01/bonjour-tout-le-monde/</link>
+	Commentaires pour yes can	</title>
+	<atom:link href="http://ayachibadr.github.io/yes/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ayachibadr.github.io/yes</link>
 	<description>Un site utilisant WordPress</description>
 	<lastBuildDate>Sun, 31 Oct 2021 23:10:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,19 +19,19 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>
-		Par : Un commentateur WordPress		</title>
-		<link>https://confident-sammet-6fdfb7.netlify.app//2021/11/01/bonjour-tout-le-monde/#comment-1</link>
+		Commentaires sur Bonjour tout le monde ! par Un commentateur WordPress		</title>
+		<link>http://ayachibadr.github.io/yes/2021/11/01/bonjour-tout-le-monde/#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentateur WordPress]]></dc:creator>
 		<pubDate>Sun, 31 Oct 2021 23:10:27 +0000</pubDate>
-		<guid isPermaLink="false">https://confident-sammet-6fdfb7.netlify.app//?p=1#comment-1</guid>
+		<guid isPermaLink="false">http://ayachibadr.github.io/yes/?p=1#comment-1</guid>
 
 					<description><![CDATA[Bonjour, ceci est un commentaire.
 Pour débuter avec la modération, la modification et la suppression de commentaires, veuillez visiter l’écran des Commentaires dans le Tableau de bord.
 Les avatars des personnes qui commentent arrivent depuis &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
 			<content:encoded><![CDATA[<p>Bonjour, ceci est un commentaire.<br />
 Pour débuter avec la modération, la modification et la suppression de commentaires, veuillez visiter l’écran des Commentaires dans le Tableau de bord.<br />
-Les avatars des personnes qui commentent arrivent depuis <a href="https://gravatar.com">Gravatar</a>.</p>
+Les avatars des personnes qui commentent arrivent depuis <a href="https://gravatar.com/">Gravatar</a>.</p>
 ]]></content:encoded>
 		
 			</item>
