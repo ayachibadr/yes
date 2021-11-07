@@ -9,8 +9,8 @@
 
 <channel>
 	<title>yes can</title>
-	<atom:link href="http://ayachibadr.github.io/yes/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ayachibadr.github.io/yes</link>
+	<atom:link href="https://ayachibadr.github.io/yes/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ayachibadr.github.io/yes</link>
 	<description>Un site utilisant WordPress</description>
 	<lastBuildDate>Sun, 07 Nov 2021 15:00:28 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -21,33 +21,33 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>saama waidhnc</title>
-		<link>http://ayachibadr.github.io/yes/2021/11/04/saama-waidhnc/</link>
-					<comments>http://ayachibadr.github.io/yes/2021/11/04/saama-waidhnc/#respond</comments>
+		<link>https://ayachibadr.github.io/yes/2021/11/04/saama-waidhnc/</link>
+					<comments>https://ayachibadr.github.io/yes/2021/11/04/saama-waidhnc/#respond</comments>
 		
 		<dc:creator><![CDATA[farah2]]></dc:creator>
 		<pubDate>Thu, 04 Nov 2021 21:24:16 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">http://ayachibadr.github.io/yes/?p=9</guid>
+		<guid isPermaLink="false">https://ayachibadr.github.io/yes/?p=9</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="http://ayachibadr.github.io/yes/wp-content/uploads/2021/11/maxresdefault-1024x576.jpg" alt="" class="wp-image-10" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/11/maxresdefault-1024x576.jpg 1024w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/11/maxresdefault-300x169.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/11/maxresdefault-768x432.jpg 768w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/11/maxresdefault.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="https://ayachibadr.github.io/yes/wp-content/uploads/2021/11/maxresdefault-1024x576.jpg" alt="" class="wp-image-10" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/11/maxresdefault-1024x576.jpg 1024w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/11/maxresdefault-300x169.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/11/maxresdefault-768x432.jpg 768w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/11/maxresdefault.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ayachibadr.github.io/yes/2021/11/04/saama-waidhnc/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ayachibadr.github.io/yes/2021/11/04/saama-waidhnc/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Bonjour tout le monde !</title>
-		<link>http://ayachibadr.github.io/yes/2021/11/01/bonjour-tout-le-monde/</link>
-					<comments>http://ayachibadr.github.io/yes/2021/11/01/bonjour-tout-le-monde/#comments</comments>
+		<link>https://ayachibadr.github.io/yes/2021/11/01/bonjour-tout-le-monde/</link>
+					<comments>https://ayachibadr.github.io/yes/2021/11/01/bonjour-tout-le-monde/#comments</comments>
 		
 		<dc:creator><![CDATA[farah2]]></dc:creator>
 		<pubDate>Sun, 31 Oct 2021 23:10:27 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">http://ayachibadr.github.io/yes/?p=1</guid>
+		<guid isPermaLink="false">https://ayachibadr.github.io/yes/?p=1</guid>
 
 					<description><![CDATA[Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -70,15 +70,15 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ayachibadr.github.io/yes/2021/11/01/bonjour-tout-le-monde/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ayachibadr.github.io/yes/2021/11/01/bonjour-tout-le-monde/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sed magna dui, dignissim id felis vitae, consectetur</title>
-		<link>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-2/</link>
-					<comments>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-2/#respond</comments>
+		<link>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-2/</link>
+					<comments>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-2/#respond</comments>
 		
 		<dc:creator><![CDATA[farah2]]></dc:creator>
 		<pubDate>Sun, 18 Jul 2021 19:06:31 +0000</pubDate>
@@ -91,7 +91,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="732" height="577" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-1.jpg" alt="" class="wp-image-184" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1.jpg 732w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-300x236.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-380x300.jpg 380w" sizes="(max-width: 732px) 100vw, 732px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="732" height="577" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-1.jpg" alt="" class="wp-image-184" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1.jpg 732w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-300x236.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-380x300.jpg 380w" sizes="(max-width: 732px) 100vw, 732px" /></figure>
 
 
 
@@ -105,13 +105,13 @@
 
 <div class="wp-block-columns alignwide">
 <div class="wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-2.jpg" alt="" class="wp-image-189" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2.jpg 668w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-300x205.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-2.jpg" alt="" class="wp-image-189" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2.jpg 668w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-300x205.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
 </div>
 
 
 
 <div class="wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-3.jpg" alt="" class="wp-image-190" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3.jpg 668w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-300x205.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-3.jpg" alt="" class="wp-image-190" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3.jpg 668w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-300x205.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
 </div>
 </div>
 
@@ -128,15 +128,15 @@
 <p>Praesent nulla facilisi. Praesent diam leo, dapibus ultricies porta in, tincidunt eget augue. Curabitur rutrum maximus lacus, ut scelerisque ipsum porttitor et. In non fringilla justo. Pellentesque venenatis suscipit lacus. Sed non laoreet elit. Fusce vel tellus vulputate, dignissim turpis sit amet, aliquet mi. Etiam elementum, massa et fermentum viverra, odio ipsum gravida metus, at interdum tellus est eget mi.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Fusce suscipit risus tempor, blandit urna at, laoreet ex</title>
-		<link>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-3/</link>
-					<comments>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-3/#respond</comments>
+		<link>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-3/</link>
+					<comments>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-3/#respond</comments>
 		
 		<dc:creator><![CDATA[farah2]]></dc:creator>
 		<pubDate>Sun, 18 Jul 2021 19:06:31 +0000</pubDate>
@@ -149,7 +149,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="732" height="577" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-1.jpg" alt="" class="wp-image-184" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1.jpg 732w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-300x236.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-380x300.jpg 380w" sizes="(max-width: 732px) 100vw, 732px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="732" height="577" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-1.jpg" alt="" class="wp-image-184" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1.jpg 732w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-300x236.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-380x300.jpg 380w" sizes="(max-width: 732px) 100vw, 732px" /></figure>
 
 
 
@@ -163,13 +163,13 @@
 
 <div class="wp-block-columns alignwide">
 <div class="wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-2.jpg" alt="" class="wp-image-189" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2.jpg 668w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-300x205.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-2.jpg" alt="" class="wp-image-189" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2.jpg 668w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-300x205.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
 </div>
 
 
 
 <div class="wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-3.jpg" alt="" class="wp-image-190" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3.jpg 668w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-300x205.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-3.jpg" alt="" class="wp-image-190" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3.jpg 668w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-300x205.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
 </div>
 </div>
 
@@ -186,15 +186,15 @@
 <p>Praesent nulla facilisi. Praesent diam leo, dapibus ultricies porta in, tincidunt eget augue. Curabitur rutrum maximus lacus, ut scelerisque ipsum porttitor et. In non fringilla justo. Pellentesque venenatis suscipit lacus. Sed non laoreet elit. Fusce vel tellus vulputate, dignissim turpis sit amet, aliquet mi. Etiam elementum, massa et fermentum viverra, odio ipsum gravida metus, at interdum tellus est eget mi.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pellentesque varius, diam vitae mattis luctus, mi mi cursus</title>
-		<link>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-4/</link>
-					<comments>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-4/#respond</comments>
+		<link>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-4/</link>
+					<comments>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-4/#respond</comments>
 		
 		<dc:creator><![CDATA[farah2]]></dc:creator>
 		<pubDate>Sun, 18 Jul 2021 19:06:31 +0000</pubDate>
@@ -207,7 +207,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="732" height="577" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-1.jpg" alt="" class="wp-image-184" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1.jpg 732w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-300x236.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-380x300.jpg 380w" sizes="(max-width: 732px) 100vw, 732px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="732" height="577" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-1.jpg" alt="" class="wp-image-184" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1.jpg 732w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-300x236.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-380x300.jpg 380w" sizes="(max-width: 732px) 100vw, 732px" /></figure>
 
 
 
@@ -221,13 +221,13 @@
 
 <div class="wp-block-columns alignwide">
 <div class="wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-2.jpg" alt="" class="wp-image-189" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2.jpg 668w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-300x205.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-2.jpg" alt="" class="wp-image-189" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2.jpg 668w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-300x205.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
 </div>
 
 
 
 <div class="wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-3.jpg" alt="" class="wp-image-190" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3.jpg 668w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-300x205.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-3.jpg" alt="" class="wp-image-190" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3.jpg 668w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-300x205.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
 </div>
 </div>
 
@@ -244,15 +244,15 @@
 <p>Praesent nulla facilisi. Praesent diam leo, dapibus ultricies porta in, tincidunt eget augue. Curabitur rutrum maximus lacus, ut scelerisque ipsum porttitor et. In non fringilla justo. Pellentesque venenatis suscipit lacus. Sed non laoreet elit. Fusce vel tellus vulputate, dignissim turpis sit amet, aliquet mi. Etiam elementum, massa et fermentum viverra, odio ipsum gravida metus, at interdum tellus est eget mi.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-4/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-4/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nam pharetra fringilla justo, et commodo lacus molestie ut</title>
-		<link>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-5/</link>
-					<comments>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-5/#respond</comments>
+		<link>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-5/</link>
+					<comments>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-5/#respond</comments>
 		
 		<dc:creator><![CDATA[farah2]]></dc:creator>
 		<pubDate>Sun, 18 Jul 2021 19:06:31 +0000</pubDate>
@@ -265,7 +265,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="732" height="577" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-1.jpg" alt="" class="wp-image-184" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1.jpg 732w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-300x236.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-380x300.jpg 380w" sizes="(max-width: 732px) 100vw, 732px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="732" height="577" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-1.jpg" alt="" class="wp-image-184" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1.jpg 732w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-300x236.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-380x300.jpg 380w" sizes="(max-width: 732px) 100vw, 732px" /></figure>
 
 
 
@@ -279,13 +279,13 @@
 
 <div class="wp-block-columns alignwide">
 <div class="wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-2.jpg" alt="" class="wp-image-189" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2.jpg 668w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-300x205.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-2.jpg" alt="" class="wp-image-189" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2.jpg 668w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-300x205.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
 </div>
 
 
 
 <div class="wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-3.jpg" alt="" class="wp-image-190" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3.jpg 668w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-300x205.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-3.jpg" alt="" class="wp-image-190" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3.jpg 668w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-300x205.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
 </div>
 </div>
 
@@ -302,15 +302,15 @@
 <p>Praesent nulla facilisi. Praesent diam leo, dapibus ultricies porta in, tincidunt eget augue. Curabitur rutrum maximus lacus, ut scelerisque ipsum porttitor et. In non fringilla justo. Pellentesque venenatis suscipit lacus. Sed non laoreet elit. Fusce vel tellus vulputate, dignissim turpis sit amet, aliquet mi. Etiam elementum, massa et fermentum viverra, odio ipsum gravida metus, at interdum tellus est eget mi.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-5/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Fusce vel tellus vulputate, dignissim turpis sit amet, aliquet mi</title>
-		<link>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-6/</link>
-					<comments>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-6/#respond</comments>
+		<link>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-6/</link>
+					<comments>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-6/#respond</comments>
 		
 		<dc:creator><![CDATA[farah2]]></dc:creator>
 		<pubDate>Sun, 18 Jul 2021 19:06:31 +0000</pubDate>
@@ -323,7 +323,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="732" height="577" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-1.jpg" alt="" class="wp-image-184" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1.jpg 732w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-300x236.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-380x300.jpg 380w" sizes="(max-width: 732px) 100vw, 732px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="732" height="577" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-1.jpg" alt="" class="wp-image-184" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1.jpg 732w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-300x236.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-380x300.jpg 380w" sizes="(max-width: 732px) 100vw, 732px" /></figure>
 
 
 
@@ -337,13 +337,13 @@
 
 <div class="wp-block-columns alignwide">
 <div class="wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-2.jpg" alt="" class="wp-image-189" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2.jpg 668w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-300x205.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-2.jpg" alt="" class="wp-image-189" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2.jpg 668w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-300x205.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
 </div>
 
 
 
 <div class="wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-3.jpg" alt="" class="wp-image-190" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3.jpg 668w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-300x205.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-3.jpg" alt="" class="wp-image-190" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3.jpg 668w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-300x205.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
 </div>
 </div>
 
@@ -360,15 +360,15 @@
 <p>Praesent nulla facilisi. Praesent diam leo, dapibus ultricies porta in, tincidunt eget augue. Curabitur rutrum maximus lacus, ut scelerisque ipsum porttitor et. In non fringilla justo. Pellentesque venenatis suscipit lacus. Sed non laoreet elit. Fusce vel tellus vulputate, dignissim turpis sit amet, aliquet mi. Etiam elementum, massa et fermentum viverra, odio ipsum gravida metus, at interdum tellus est eget mi.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-6/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-6/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nunc tristique turpis ac turpis vestibulum, at semper</title>
-		<link>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-7/</link>
-					<comments>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-7/#respond</comments>
+		<link>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-7/</link>
+					<comments>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-7/#respond</comments>
 		
 		<dc:creator><![CDATA[farah2]]></dc:creator>
 		<pubDate>Sun, 18 Jul 2021 19:06:31 +0000</pubDate>
@@ -381,7 +381,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="732" height="577" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-1.jpg" alt="" class="wp-image-184" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1.jpg 732w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-300x236.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-380x300.jpg 380w" sizes="(max-width: 732px) 100vw, 732px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="732" height="577" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-1.jpg" alt="" class="wp-image-184" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1.jpg 732w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-300x236.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-380x300.jpg 380w" sizes="(max-width: 732px) 100vw, 732px" /></figure>
 
 
 
@@ -395,13 +395,13 @@
 
 <div class="wp-block-columns alignwide">
 <div class="wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-2.jpg" alt="" class="wp-image-189" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2.jpg 668w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-300x205.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-2.jpg" alt="" class="wp-image-189" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2.jpg 668w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-300x205.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
 </div>
 
 
 
 <div class="wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-3.jpg" alt="" class="wp-image-190" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3.jpg 668w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-300x205.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-3.jpg" alt="" class="wp-image-190" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3.jpg 668w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-300x205.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
 </div>
 </div>
 
@@ -418,15 +418,15 @@
 <p>Praesent nulla facilisi. Praesent diam leo, dapibus ultricies porta in, tincidunt eget augue. Curabitur rutrum maximus lacus, ut scelerisque ipsum porttitor et. In non fringilla justo. Pellentesque venenatis suscipit lacus. Sed non laoreet elit. Fusce vel tellus vulputate, dignissim turpis sit amet, aliquet mi. Etiam elementum, massa et fermentum viverra, odio ipsum gravida metus, at interdum tellus est eget mi.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-7/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-7/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nulla sed ipsum pellentesque, interdum magna non, eleifend</title>
-		<link>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-8/</link>
-					<comments>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-8/#respond</comments>
+		<link>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-8/</link>
+					<comments>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-8/#respond</comments>
 		
 		<dc:creator><![CDATA[farah2]]></dc:creator>
 		<pubDate>Sun, 18 Jul 2021 19:06:31 +0000</pubDate>
@@ -439,7 +439,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="732" height="577" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-1.jpg" alt="" class="wp-image-184" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1.jpg 732w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-300x236.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-380x300.jpg 380w" sizes="(max-width: 732px) 100vw, 732px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="732" height="577" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-1.jpg" alt="" class="wp-image-184" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1.jpg 732w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-300x236.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-380x300.jpg 380w" sizes="(max-width: 732px) 100vw, 732px" /></figure>
 
 
 
@@ -453,13 +453,13 @@
 
 <div class="wp-block-columns alignwide">
 <div class="wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-2.jpg" alt="" class="wp-image-189" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2.jpg 668w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-300x205.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-2.jpg" alt="" class="wp-image-189" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2.jpg 668w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-300x205.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
 </div>
 
 
 
 <div class="wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-3.jpg" alt="" class="wp-image-190" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3.jpg 668w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-300x205.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-3.jpg" alt="" class="wp-image-190" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3.jpg 668w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-300x205.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
 </div>
 </div>
 
@@ -476,15 +476,15 @@
 <p>Praesent nulla facilisi. Praesent diam leo, dapibus ultricies porta in, tincidunt eget augue. Curabitur rutrum maximus lacus, ut scelerisque ipsum porttitor et. In non fringilla justo. Pellentesque venenatis suscipit lacus. Sed non laoreet elit. Fusce vel tellus vulputate, dignissim turpis sit amet, aliquet mi. Etiam elementum, massa et fermentum viverra, odio ipsum gravida metus, at interdum tellus est eget mi.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-8/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ayachibadr.github.io/yes/2021/07/18/in-viverra-faucibus-tellus-sed-cursus-quam-fringilla-sit-amet-8/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Duis lacinia convallis odio, quis efficitur dolor pulvinar nec</title>
-		<link>http://ayachibadr.github.io/yes/2021/07/18/duis-lacinia-convallis-odio-quis-efficitur-dolor-pulvinar-nec/</link>
-					<comments>http://ayachibadr.github.io/yes/2021/07/18/duis-lacinia-convallis-odio-quis-efficitur-dolor-pulvinar-nec/#respond</comments>
+		<link>https://ayachibadr.github.io/yes/2021/07/18/duis-lacinia-convallis-odio-quis-efficitur-dolor-pulvinar-nec/</link>
+					<comments>https://ayachibadr.github.io/yes/2021/07/18/duis-lacinia-convallis-odio-quis-efficitur-dolor-pulvinar-nec/#respond</comments>
 		
 		<dc:creator><![CDATA[farah2]]></dc:creator>
 		<pubDate>Sun, 18 Jul 2021 18:58:45 +0000</pubDate>
@@ -497,7 +497,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="732" height="577" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-1.jpg" alt="" class="wp-image-184" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1.jpg 732w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-300x236.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-380x300.jpg 380w" sizes="(max-width: 732px) 100vw, 732px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="732" height="577" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-1.jpg" alt="" class="wp-image-184" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1.jpg 732w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-300x236.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-1-380x300.jpg 380w" sizes="(max-width: 732px) 100vw, 732px" /></figure>
 
 
 
@@ -511,13 +511,13 @@
 
 <div class="wp-block-columns alignwide">
 <div class="wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-2.jpg" alt="" class="wp-image-189" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2.jpg 668w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-300x205.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-2.jpg" alt="" class="wp-image-189" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2.jpg 668w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-300x205.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-2-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
 </div>
 
 
 
 <div class="wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-3.jpg" alt="" class="wp-image-190" srcset="http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3.jpg 668w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-300x205.jpg 300w, http://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="668" height="457" src="https://demo.athemes.com/botiga/wp-content/uploads/sites/125/2021/07/Img-3.jpg" alt="" class="wp-image-190" srcset="https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3.jpg 668w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-300x205.jpg 300w, https://ayachibadr.github.io/yes/wp-content/uploads/2021/07/Img-3-380x260.jpg 380w" sizes="(max-width: 668px) 100vw, 668px" /></figure>
 </div>
 </div>
 
@@ -534,7 +534,7 @@
 <p>Praesent nulla facilisi. Praesent diam leo, dapibus ultricies porta in, tincidunt eget augue. Curabitur rutrum maximus lacus, ut scelerisque ipsum porttitor et. In non fringilla justo. Pellentesque venenatis suscipit lacus. Sed non laoreet elit. Fusce vel tellus vulputate, dignissim turpis sit amet, aliquet mi. Etiam elementum, massa et fermentum viverra, odio ipsum gravida metus, at interdum tellus est eget mi.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ayachibadr.github.io/yes/2021/07/18/duis-lacinia-convallis-odio-quis-efficitur-dolor-pulvinar-nec/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ayachibadr.github.io/yes/2021/07/18/duis-lacinia-convallis-odio-quis-efficitur-dolor-pulvinar-nec/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

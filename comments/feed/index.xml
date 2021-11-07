@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires pour yes can	</title>
-	<atom:link href="http://ayachibadr.github.io/yes/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ayachibadr.github.io/yes</link>
+	<atom:link href="https://ayachibadr.github.io/yes/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ayachibadr.github.io/yes</link>
 	<description>Un site utilisant WordPress</description>
 	<lastBuildDate>Sun, 07 Nov 2021 15:22:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Commentaires sur Bonjour tout le monde ! par Un commentateur WordPress		</title>
-		<link>http://ayachibadr.github.io/yes/2021/11/01/bonjour-tout-le-monde/#comment-1</link>
+		<link>https://ayachibadr.github.io/yes/2021/11/01/bonjour-tout-le-monde/#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentateur WordPress]]></dc:creator>
 		<pubDate>Sun, 31 Oct 2021 23:10:27 +0000</pubDate>
-		<guid isPermaLink="false">http://ayachibadr.github.io/yes/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://ayachibadr.github.io/yes/?p=1#comment-1</guid>
 
 					<description><![CDATA[Bonjour, ceci est un commentaire.
 Pour débuter avec la modération, la modification et la suppression de commentaires, veuillez visiter l’écran des Commentaires dans le Tableau de bord.
@@ -38,7 +38,7 @@ Les avatars des personnes qui commentent arrivent depuis <a href="https://gravat
 		<item>
 		<title>
 		Commentaires sur Eternal Sunset Collection Lip and Cheek par vlad		</title>
-		<link>http://ayachibadr.github.io/yes/produit/eternal-sunset-collection-lip-and-cheek-set-with-jojoba-oil/#comment-2</link>
+		<link>https://ayachibadr.github.io/yes/produit/eternal-sunset-collection-lip-and-cheek-set-with-jojoba-oil/#comment-2</link>
 
 		<dc:creator><![CDATA[vlad]]></dc:creator>
 		<pubDate>Wed, 21 Jul 2021 12:23:28 +0000</pubDate>
